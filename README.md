@@ -1,2 +1,2 @@
 # spring-boot-unit-testing
-JUnit, Mockito sand Mocks MVC
+JUnit, Mockito and Mocks MVC
